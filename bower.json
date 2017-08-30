@@ -1,0 +1,17 @@
+{
+  "name": "quoteMachine",
+  "homepage": "https://github.com/anzouaoui/quoteMachine",
+  "authors": [
+    "Anouk ZOUAOUI <anzouaoui78@yahoo.fr>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
